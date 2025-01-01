@@ -12,11 +12,11 @@
     "xiaozhedesu <xiaozhedesu0219@outlook.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/xiaozhedesu/ramdom-ba-manga",
+  "homepage": "https://github.com/xiaozhedesu/random-ba-manga",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiaozhedesu/ramdom-ba-manga.git"
+    "url": "git+https://github.com/xiaozhedesu/random-ba-manga.git"
   },
   "keywords": [
     "chatbot",
