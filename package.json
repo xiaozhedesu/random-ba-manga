@@ -1,19 +1,29 @@
 {
   "name": "koishi-plugin-random-ba-manga",
   "description": "在ba官网随机一张ba漫画发出",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "lib",
     "dist"
   ],
+  "contributors": [
+    "xiaozhedesu <xiaozhedesu0219@outlook.com>"
+  ],
   "license": "MIT",
+  "homepage": "https://github.com/xiaozhedesu/ramdom-ba-manga",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaozhedesu/ramdom-ba-manga.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "bluearchive",
+    "manga"
   ],
   "devDependencies": {},
   "peerDependencies": {
